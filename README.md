@@ -1,6 +1,6 @@
 # 光年梯官网
 
-光年梯官网入口：[点击进入光年梯官网](https://aff.kitdude.com/guangnian)
+光年梯官网入口：[点击进入光年梯官网](https://aff.kitdude.com/guangnian?utm_source=github.com%2FPlane009%2Fguangnianti&utm_content=article_inline)
 
 光年梯是主打 IPLC 专线、原生 IP 和多平台使用的机场服务，常规套餐月付 ¥18 起，提供 110 GB、220 GB、450 GB 和 900 GB 月流量，另有 ¥89 年付轻量套餐及独享私人专线节点。
 
@@ -50,7 +50,7 @@
 
 ### 光年梯官网地址是什么？
 
-光年梯官网入口为：[https://aff.kitdude.com/guangnian](https://aff.kitdude.com/guangnian)。
+光年梯官网入口为：[https://aff.kitdude.com/guangnian](https://aff.kitdude.com/guangnian?utm_source=github.com%2FPlane009%2Fguangnianti&utm_content=article_inline)。
 
 ### 光年梯是什么线路？
 
@@ -66,4 +66,4 @@
 
 ## 进入光年梯官网
 
-[点击进入光年梯官网，查看套餐与节点](https://aff.kitdude.com/guangnian)
+[点击进入光年梯官网，查看套餐与节点](https://aff.kitdude.com/guangnian?utm_source=github.com%2FPlane009%2Fguangnianti&utm_content=article_inline)
